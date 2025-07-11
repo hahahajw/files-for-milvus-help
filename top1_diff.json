@@ -1,0 +1,86 @@
+[
+    {
+        "question": "ICI House is now named after the company that provides what type of item?",
+        "dense_top1": 0.7522499561309814,
+        "hybrid_top1": 0.9679315090179443,
+        "dense_content": "ICI House (now Orica House) is a 19-storey office building in East Melbourne, Victoria, Australia. Begun in 1955, it was the tallest building in Australia upon completion in 1958, breaking Melbourne's long standing 132ft height limit, and was the first International Style skyscraper in the country. It symbolised progress, modernity, efficiency and corporate power in postwar Melbourne, and heralded the construction of the high-rise office buildings",
+        "hybrid_content": ", then a record among magazines published by Time, Inc., SI's parent company."
+    },
+    {
+        "question": "How many total staff (including part-time, flexible, and fixed contract staff) does the broadcaster, who released HyperNormalisation, employ?",
+        "dense_top1": 0.7067705988883972,
+        "hybrid_top1": 0.824795663356781,
+        "dense_content": "HyperNormalisation is a 2016 BBC documentary by British filmmaker Adam Curtis. In the film, Curtis argues that since the 1970s, governments, financiers, and technological utopians have given up on the complex \"real world\" and built a simple \"fake world\" that is run by corporations and kept stable by politicians. The film was released on 16 October 2016 on the BBC iPlayer.",
+        "hybrid_content": "The British Broadcasting Corporation (BBC) is a British public service broadcaster with its headquarters at Broadcasting House in London. The BBC is the world's oldest national broadcasting organisation and the largest broadcaster in the world by number of employees. It employs over 20,950 staff in total, 16,672 of whom are in public sector broadcasting. The total number of staff is 35,402 when part-time, flexible, and fixed contract staff are included."
+    },
+    {
+        "question": " What species has an extinct subspecies that are classified as Trogloxene and are known from fossils and prehistoric art?",
+        "dense_top1": 0.8034429550170898,
+        "hybrid_top1": 0.6519018411636353,
+        "dense_content": "Occidens is an extinct genus of stem tetrapod that lived during the earliest part of the Carboniferous in what is now Northern Ireland. It is known from a single type species, Occidens portlocki",
+        "hybrid_content": "Trogloxenes, also called cave guests, are animal species which live close to caves or at the very entrance of the cave, but cannot live exclusively in a cave. This group consists of both extant animals, such as raccoons, rats, foxes and bears, opiliones (a.k.a. Daddy-Long-Legs) and extinct animals like cave bears, cave lions, cave leopards, and cave hyenas. Indications trusted by geologists and archaeologists combine to show that these animals lived there in the latter part, at least"
+    },
+    {
+        "question": "What company did Roscoe Channing form with the owner of a leading stable of thoroughbred racehorses?",
+        "dense_top1": 0.6983531713485718,
+        "hybrid_top1": 0.9758314490318298,
+        "dense_content": ", Channing enlisted in Theodore Roosevelt's Rough Riders. Roosevelt took pride in how many Ivy League football players enlisted in the Rough Riders. Channing later went into the mining business and managed the mining operations of the Whitney family. In the 1920s, he formed a partnership with his friend Cornelius Vanderbilt Whitney. The two formed the Hudson Bay Mining and Smelting Company in Flin Flon, Saskatchewan, Canada, and Channing served as the company's President. Channing died in 1961.",
+        "hybrid_content": "Dumfriesshire Black and Tan Foxhounds were a pack of foxhounds kennelled at Glenholm Kennels, Kettleholm, near Lockerbie until they were disbanded in 2001. They were established by Sir John Buchanan Jardine, author of \"Hounds of the World\" (1937), after the First World War. The hounds are believed to have originally been created by crossing Bloodhound/Gascony blue/English Foxhound. They were larger than standard foxhounds and were black and tan. Although that pack was disbanded in 1986"
+    },
+    {
+        "question": "Who was older, Andrew Preston or James Taylor?",
+        "dense_top1": 0.8244262933731079,
+        "hybrid_top1": 0.6878417730331421,
+        "dense_content": "James Vernon Taylor (born March 12, 1948) is an American singer-songwriter and guitarist. A five-time Grammy Award winner, he was inducted into the Rock and Roll Hall of Fame in 2000. He is one of the best-selling music artists of all time, having sold more than 100 million records worldwide.",
+        "hybrid_content": "Andrew Preston is a Canadian historian, who won the 2013 Charles Taylor Prize for his book \"Sword of the Spirit, Shield of Faith: Religion in American War and Diplomacy\". He is also a fellow at Clare College, Cambridge where he acts as a director of studies in history."
+    },
+    {
+        "question": "Kenneth L. Gile is the Chief Operating Officer of an airline with its head office in what airport?",
+        "dense_top1": 0.5187034606933594,
+        "hybrid_top1": 0.8375869989395142,
+        "dense_content": "Kenneth \"Ken\" Gile (born 1947) is the Chief Operating Officer of Flydubai, the low-cost carrier owned by the Dubai government. Prior to joining Flydubai, Ken was the President and COO of now defunct Skybus Airlines and a former pilot and Director of Operations for Southwest Airlines. Ken was also a pilot in the US Air Force, as well as for Saudi Arabian Airlines prior to his career with Southwest.",
+        "hybrid_content": "John F. Kennedy International Airport (IATA: JFK, ICAO: KJFK, FAA LID: JFK) , often referred to as Kennedy Airport, or simply JFK, is the primary international airport serving New York City. It is the busiest international air passenger gateway into North America, the fifth busiest airport in the United States and the busiest airport in the New York City airport system, handling just under 59 million passengers in 2016. Over ninety airlines operate out of the airport"
+    },
+    {
+        "question": "What was the 2016 population of the city on the Bay Fundy which had an office of the Bank of British North America?",
+        "dense_top1": 0.7473448514938354,
+        "hybrid_top1": 0.7696487903594971,
+        "dense_content": "The Bank of British North America was founded by Royal Charter issued in 1836 in London, England with offices in Toronto, Montreal, Quebec City, Saint John, New Brunswick, Halifax and St. John's, Newfoundland. It was the oldest bank in British Columbia. It also operated agencies in New York City and San Francisco. Like the other Canadian chartered banks, it issued its own paper money. The bank issued notes 1852-1911. The end dates are the final dates appearing on notes",
+        "hybrid_content": "The Bay of Fundy (French: \"Baie de Fundy\" ) is a bay on the Atlantic coast of North America, on the northeast end of the Gulf of Maine between the Canadian provinces of New Brunswick and Nova Scotia, with a small portion touching the U.S. state of Maine."
+    },
+    {
+        "question": "Who was from farther west, Max Neufeld or Eduard Zahariev?",
+        "dense_top1": 0.7190597057342529,
+        "hybrid_top1": 1.1008129119873047,
+        "dense_content": "Max Neufeld (13 February 1887 – 2 December 1967) was an Austrian film director, actor and screenwriter. He directed 70 films between 1919 and 1957. He directed the 1934 film \"The Song of the Sun\", which starred Vittorio De Sica.",
+        "hybrid_content": ",the Central Committee elected by the 16th Congress of the All-Union Communist Party (Bolsheviks) and the Central Committee elected by the 17th Congress of the All-Union Communist Party (Bolsheviks). He was Chief Administrator (1927–1935), head of the Accounting Department (1932–1934). He died in Moscow."
+    },
+    {
+        "question": "What award won by only twelve people has a man who Ted Kooshian has performed with won?",
+        "dense_top1": 0.4856524169445038,
+        "hybrid_top1": 0.8962870240211487,
+        "dense_content": "Ted Kooshian (born October 8, 1961) is an American jazz pianist, keyboardist, and composer, who has performed with Aretha Franklin, Chuck Berry, Marvin Hamlisch, Sarah Brightman, Il Divo, and Blood, Sweat, and Tears. Kooshian has played in many Broadway pit orchestras, and has been a member of the Ed Palermo Big Band since 1994. Originally from San Jose, California, Kooshian has been performing since the 1980s.",
+        "hybrid_content": ", and has had seventeen top 5 hits, twelve number one singles and seven number one albums with Take That. He is also a six-time recipient of the Ivor Novello Award and has sold over 50 million records worldwide."
+    },
+    {
+        "question": "Scout Tufankjian and Daron Malakian are both what?",
+        "dense_top1": 0.7689334154129028,
+        "hybrid_top1": 0.7115788459777832,
+        "dense_content": "Daron Vartan Malakian (Armenian: Տարօն/Տարոն Վարդան Մալաքեան, born July 18, 1975) is an Armenian–American singer-songwriter, multi-instrumentalist, and record producer. He is best known as the guitarist, songwriter and second vocalist of the rock band System of a Down and as the lead vocalist, lead guitarist and songwriter of the band Scars on Broadway. Like the rest of the Hollywood-based band System of a Down, he is of Armenian ancestry",
+        "hybrid_content": "Scout Tufankjian is an Armenian-American photojournalist and author based in Brooklyn, New York. She is well known for her photos of American President Barack Obama during his campaign leading up to his presidency. She is also known for her photojournalism work on the Armenian diaspora."
+    },
+    {
+        "question": "Were Sound Team and Dead by Sunrise both formed before 2010? ",
+        "dense_top1": 0.6142706871032715,
+        "hybrid_top1": 0.517268180847168,
+        "dense_content": "Dead by Sunrise (formerly known as Snow White Tan) was an American post-grunge rock band formed in 2005 by Linkin Park lead singer Chester Bennington. The band also consisted of Amir Derakh, Ryan Shuck, Brandon Belsky, Elias Andra, and Anthony \"Fu\" Valcic from Julien-K and Orgy. Dead by Sunrise's debut studio album, \"Out of Ashes\", was released worldwide on October 13, 2009. The band has been on hiatus since 2012. Bennington committed suicide in 2017, putting the band's future in doubt.",
+        "hybrid_content": "Sound Team was an American band based in Austin, Texas that formed in 2000 around principal songwriters Bill Baird and Matt Oliver. For most of their recording career, Sound Team consisted of Bill Baird (bass, guitar, vocals), Matt Oliver (guitar, piano, vocals), Jordan Johns (drums, percussion), Sam Sanford (guitar), Michael Baird (synthesizer, tapes) and Gabe Pearlman (organ). Sanford and Michael Baird left the group in 2006. The band continued to record and tour briefly with a new lineup"
+    },
+    {
+        "question": "Who has more scope of profession, Edward Dmytryk or Otto Preminger?",
+        "dense_top1": 0.6723050475120544,
+        "hybrid_top1": 0.648831307888031,
+        "dense_content": "Otto Ludwig Preminger ( , ] ; 5 December 1905 – 23 April 1986) was an American theatre and film director, originally from Austria-Hungary.",
+        "hybrid_content": "Edward Dmytryk (September 4, 1908 – July 1, 1999) was a Canadian-born American film director. He was known for his 1940s \"films noir\" and received an Oscar nomination for Best Director for \"Crossfire\" (1947)."
+    }
+]
