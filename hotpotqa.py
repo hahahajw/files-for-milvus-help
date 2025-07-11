@@ -204,7 +204,7 @@ if __name__ == '__main__':
 
     # 2. 替换后，您应该只需要修改 get_hotpotqa_vector_store 函数中的 file_path 参数，就可以运行下面的代码
 
-    # 3. 当成功创建向量数据库后，您就可以使用对应的向量数据库的名称利用 Milvus 函数加载对应的向量数据库了
+    # 3. 当成功创建向量数据库后，您就可以使用对应的向量数据库的名称利用 Milvus() 函数加载对应的向量数据库了
 
 
     import os
@@ -232,5 +232,6 @@ if __name__ == '__main__':
         chunk_size=500,
         chunk_overlap=10
     )
+
 
     
