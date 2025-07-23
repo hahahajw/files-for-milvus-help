@@ -1,4 +1,11 @@
 # files-for-milvus-help
+*2025.07.23 更新：*
+
+`client_search_diff.json` 是在相同的问题和搜索参数下， `dense_vs.client.search` 和 `hybrid_vs.client.search` 所得到的不一致结果（文件内容和 `diff.json` 一致）
+
+`client_search_in_vs.ipynb` 是在相同的问题和搜索参数下， 使用 `dense_vs.client.search` 和 `hybrid_vs.client.search` 进行搜索的代码
+
+------
 `diff.json` 是 186 个问题在两个向量数据库上完整的检索结果和分数
 
 `hotpotqa.py` 是我使用的将 HotpotQA 中的问题加载到 Document 对象中并将得到的 Document 对象存入向量数据库的脚本
