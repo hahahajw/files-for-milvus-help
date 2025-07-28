@@ -1,4 +1,11 @@
 # files-for-milvus-help
+*2025.07.28 更新：*
+
+`flush.ipynb` 是验证手动调用 `flush()` 方法的有效性  ->  结果和原先一样
+
+`hnsw.ipynb` 是在「使用 HNSW 作为索引，并使用较高的 `efConstruction`(400) 和 `efSearch`(21) 参数」的情况下进行搜索的完整代码  ->  有效！500 个问题中只有 17 个问题不一致，且所有问题的 top 3 全部一致
+
+------
 *2025.07.23 更新：*
 
 `client_search_diff.json` 是在相同的问题和搜索参数下， `dense_vs.client.search` 和 `hybrid_vs.client.search` 所得到的不一致结果（文件内容和 `diff.json` 一致）
